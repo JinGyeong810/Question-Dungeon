@@ -1,0 +1,17 @@
+DogKnigtPloyArt:
+https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227
+
+LowPolyDungeon:
+https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-free-dungeon-pack-191979
+
+3D Dungeon Lowpoly Pack
+https://assetstore.unity.com/packages/3d/props/furniture/3d-dungeon-lowpoly-pack-231265
+
+LowPolySkeleton:
+https://assetstore.unity.com/packages/3d/characters/creatures/low-pol-skeleton-188865
+
+MazeGenerator:
+https://assetstore.unity.com/packages/tools/modeling/maze-generator-38689
+
+UnityStandardAsset:
+Not available in Unity Asset Store Now
